@@ -7,7 +7,7 @@ These are the trees needed for your build
 [Tree A50](https://github.com/Aosp-A505F/android_device_samsung_a505f)
 
 # Prebuilt kernel with dtb,dtbo
-[Kernel](https://github.com/Aosp-A505F/android_device_samsung_a505f)
+[Kernel](https://github.com/Aosp-A505F/android_device_samsung_a505f-kernel)
 
 # UnCommon Vendor tree
 
