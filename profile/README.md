@@ -13,6 +13,12 @@ These are the trees needed for your build
 
 [Vendor A50](https://github.com/Aosp-A505f/android_vendor_samsung_a505f)
 
+# Hardware Samsung Slsi
+
+[Hardware Samsung Slsi](https://github.com/Aosp-A505F/android_hardware_samsung_slsi_sepolicy)
+
 # Hardware Samsung for aosp
 
 [Hardware Samsung](https://github.com/Aosp-A505F/android_hardware_samsung)
+
+
